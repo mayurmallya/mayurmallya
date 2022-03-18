@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my Masters thesis that is based on this [work](https://arxiv.org/pdf/2203.05683.pdf)
-- 👯 I’m looking to collaborate on one of the MICCAI 2022 [challenges](http://www.miccai.org/special-interest-groups/challenges/miccai-registered-challenges/#:~:text=10.5281/zenodo.6362503-,MICCAI%202022,-Challenge%20name)
+- 👯 I’m looking to collaborate on one of the MICCAI 2022 [challenges](http://www.miccai.org/special-interest-groups/challenges/miccai-registered-challenges/#:~:text=10.5281/zenodo.6362503-,MICCAI%202022,-Challenge%20name), preferably [MiDoG](https://zenodo.org/record/6362337)
 - 📫 How to reach me: I prefer email `mmallya (at) sfu (dot) ca` over social media platforms
