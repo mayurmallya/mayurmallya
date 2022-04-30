@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Mayur. I'm an MSc student at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/), SFU.
 <!--
 **mayurmallya/mayurmallya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
