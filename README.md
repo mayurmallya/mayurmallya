@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I'm broadly interested in the application of deep learning techniques in healthcare systems.
 - 💬 I’m currently drafting my Masters thesis that is based on this work: [Deep Multimodal Guidance for Medical Image Classification](https://arxiv.org/pdf/2203.05683.pdf).
 - 👯 I’m looking to collaborate on one of the MICCAI 2022 [challenges](http://www.miccai.org/special-interest-groups/challenges/miccai-registered-challenges/#:~:text=10.5281/zenodo.6362503-,MICCAI%202022,-Challenge%20name), preferably [MiDoG](https://zenodo.org/record/6362337).
-- 📫 How to reach me: I prefer email `mmallya (at) sfu (dot) ca` over social media platforms. Here is my [LinkedIn](https://www.linkedin.com/in/mayur-m-mallya-695a7915b/) profile it that is convenient.
+- 📫 How to reach me: I prefer email `mmallya (at) sfu (dot) ca` over social media platforms. Here is my [LinkedIn](https://www.linkedin.com/in/mayur-m-mallya-695a7915b/) profile if it is more convenient.
