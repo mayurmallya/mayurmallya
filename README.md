@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
-My name is Mayur. I'm an MSc student at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/), SFU.
+My name is Mayur. I'm a PhD student at the [AI in Medicine Lab](https://www.aimlab.ca/), UBC. Previously, I was an MSc student at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU.
 <!--
 **mayurmallya/mayurmallya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm broadly interested in the application of deep learning techniques in healthcare systems.
-- 💬 I’m currently drafting my Masters thesis that is based on this work: [Deep Multimodal Guidance for Medical Image Classification](https://arxiv.org/pdf/2203.05683.pdf).
-- 👯 I’m looking to collaborate on one of the MICCAI 2022 [challenges](http://www.miccai.org/special-interest-groups/challenges/miccai-registered-challenges/#:~:text=10.5281/zenodo.6362503-,MICCAI%202022,-Challenge%20name), preferably [MiDoG](https://zenodo.org/record/6362337).
 - 📫 How to reach me: I prefer email `mmallya (at) sfu (dot) ca` over social media platforms. Here is my [LinkedIn](https://www.linkedin.com/in/mayur-m-mallya-695a7915b/) profile if it is more convenient.
