@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm broadly interested in the application of deep learning techniques in healthcare systems.
-- 📫 How to reach me: I prefer email `mmallya (at) sfu (dot) ca` over social media platforms. Here is my [LinkedIn](https://www.linkedin.com/in/mayur-m-mallya-695a7915b/) profile if it is more convenient.
+- 📫 How to reach me: I prefer email `mayur (dot) mallya (at) ubc (dot) ca` over social media platforms. Here is my [LinkedIn](https://www.linkedin.com/in/mayur-m-mallya-695a7915b/) profile if it is more convenient.
